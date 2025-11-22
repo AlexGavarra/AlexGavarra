@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Philippines</h3>
 
 ## 🎓 Education
-
+---
 ### 🏫 College  
 **New Era University**
 
