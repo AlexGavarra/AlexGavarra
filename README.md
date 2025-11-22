@@ -21,7 +21,7 @@
 ## 📜 Certificates
 
 <p align="left">
-  🔹 <a href="(https://drive.google.com/drive/folders/1nXsbh8Jthnc2IjdKCgYWYLke2KbS2u9g?usp=sharing)" target="_blank"><strong>Certificate Title 1</strong></a> — Issuer (Year) <br>
+  🔹 <a href="https://drive.google.com/drive/folders/1nXsbh8Jthnc2IjdKCgYWYLke2KbS2u9g?usp=sharing" target="_blank"><strong>Certificate Title 1</strong></a> — Issuer (Year) <br>
   🔹 <a href="YOUR_LINK_HERE" target="_blank"><strong>Certificate Title 2</strong></a> — Issuer (Year) <br>
   🔹 <a href="YOUR_LINK_HERE" target="_blank"><strong>Certificate Title 3</strong></a> — Issuer (Year)
 </p>
