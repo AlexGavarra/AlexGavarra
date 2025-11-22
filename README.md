@@ -1,12 +1,9 @@
 <h1 align="center">Hi, I'm Alexis Adrienne Gavarra</h1>
 <h3 align="center">A passionate backend developer from Philippines</h3>
 <h1 align="left">Education:</h1>
-<h3 align="left">College
-  New Era University</h>
-<h3 align="left">High School: 
-  Batasan Hills National High School</h>
-<h3 align="left">Elementary:
-  Melencio M. Castelo</h>
+<h1 align="left">College</h1> 
+<h1 align="left">High School</h1>
+<h1 align="left">Elementary/h1>
 
 
 
