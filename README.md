@@ -1,12 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Alexis%20Adrienne%20Gavarra&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=alexgavarra">
-    <img src="https://komarev.com/ghpvc/?username=alexgavarra&label=Profile%20views&color=00FFFF&style=flat-square" alt="alexgavarra's profile views" />
-  </a>
-</p>
-### 🎓 Education
-
+## 🎓 Education
+---
 ### 🏫 College  
 **New Era University**
 
@@ -24,7 +19,13 @@
   🔹 <a href="https://drive.google.com/file/d/1iJPZ74px87C2ovk5Gn022vpdKNZDXUdE/view?usp=sharing" target="_blank"><strong>Software Dvelopment</strong></a> — DICT (2025) <br>
   🔹 <a href="https://drive.google.com/file/d/14vGlxwWlz9yVdoS2BhPo1TFm2NJKCtsf/view?usp=sharing" target="_blank"><strong>Computer System Servicing</strong></a> — TESDA (2024) <br>
  
+  
 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=alexgavarra">
+    <img src="https://komarev.com/ghpvc/?username=alexgavarra&label=Profile%20views&color=00FFFF&style=flat-square" alt="alexgavarra's profile views" />
+  </a>
+</p>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -57,4 +58,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
 
