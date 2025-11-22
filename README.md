@@ -16,15 +16,16 @@
 
 ---
 
-<h2 align="left">📜 Certificates</h2>
+---
 
-<ul>
-  <li><strong>Certificate Title 1</strong> — Issuer (Year)</li>
-  <li><strong>Certificate Title 2</strong> — Issuer (Year)</li>
-  <li><strong>Certificate Title 3</strong> — Issuer (Year)</li>
-</ul>
+## 📜 Certificates
 
-<!-- Add more as needed -->
+<p align="left">
+  🔹 <a href="(https://drive.google.com/drive/folders/1nXsbh8Jthnc2IjdKCgYWYLke2KbS2u9g?usp=sharing)" target="_blank"><strong>Certificate Title 1</strong></a> — Issuer (Year) <br>
+  🔹 <a href="YOUR_LINK_HERE" target="_blank"><strong>Certificate Title 2</strong></a> — Issuer (Year) <br>
+  🔹 <a href="YOUR_LINK_HERE" target="_blank"><strong>Certificate Title 3</strong></a> — Issuer (Year)
+</p>
+
 
 
 
