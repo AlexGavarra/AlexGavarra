@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alexis Adrienne Gavarra</h1>
-<h3 align="center">A passionate backend developer from Philippines</h3>
+<h3 align="center">A student currently taking a Computer Science degree in New Era University</h3>
 
 ## 🎓 Education
 ---
