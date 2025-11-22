@@ -12,6 +12,16 @@
 ### 🏫 Elementary  
 **Melencio M. Castelo**
 
+---
+
+## 📜 Certificates
+
+<p align="left">
+  🔹 <strong>Certificate Title 1</strong> — Issuer (Year) <br>
+  🔹 <strong>Certificate Title 2</strong> — Issuer (Year) <br>
+  🔹 <strong>Certificate Title 3</strong> — Issuer (Year)
+</p>
+
 
 
 
