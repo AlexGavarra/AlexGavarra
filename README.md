@@ -1,14 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Alexis%20Adrienne%20Gavarra&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
-## 🎓 Education
+##  Education:
 ---
-### 🏫 College  
+###  College  
 **New Era University**
 
-### 🏫 High School  
+###  High School  
 **Batasan Hills National High School**
 
-### 🏫 Elementary  
+###  Elementary  
 **Melencio M. Castelo**
 
 ---
