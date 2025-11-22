@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=alexgavarra&label=Profile%20views&color=00FFFF&style=flat-square" alt="alexgavarra's profile views" />
   </a>
 </p>
-## 🎓 Education
+### 🎓 Education
 
 ### 🏫 College  
 **New Era University**
