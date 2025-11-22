@@ -6,7 +6,7 @@
   </a>
 </p>
 ## 🎓 Education
----
+
 ### 🏫 College  
 **New Era University**
 
