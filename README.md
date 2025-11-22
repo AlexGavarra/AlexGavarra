@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Alexis Adrienne Gavarra</h1>
 <h3 align="center">A passionate backend developer from Philippines</h3>
-<h1 align="left">Education: </h1>
+
 ## 🎓 Education
 
 ### 🏫 College  
