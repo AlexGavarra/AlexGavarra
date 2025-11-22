@@ -22,9 +22,8 @@
 
 <p align="left">
   🔹 <a href="https://drive.google.com/file/d/1iJPZ74px87C2ovk5Gn022vpdKNZDXUdE/view?usp=sharing" target="_blank"><strong>Software Dvelopment</strong></a> — DICT (2025) <br>
-  🔹 <a href="YOUR_LINK_HERE" target="_blank"><strong>Certificate Title 2</strong></a> — Issuer (Year) <br>
-  🔹 <a href="YOUR_LINK_HERE" target="_blank"><strong>Certificate Title 3</strong></a> — Issuer (Year)
-</p>
+  🔹 <a href="https://drive.google.com/file/d/1U6O5aAuEUrpZ6LApijSzPJeKTanRZPYN/view?usp=sharing" target="_blank"><strong>Computer System Servicing</strong></a> — TESDA (2024) <br>
+  
 
 
 
