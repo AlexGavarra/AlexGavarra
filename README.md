@@ -5,6 +5,26 @@
     <img src="https://komarev.com/ghpvc/?username=alexgavarra&label=Profile%20views&color=00FFFF&style=flat-square" alt="alexgavarra's profile views" />
   </a>
 </p>
+## 🎓 Education
+---
+### 🏫 College  
+**New Era University**
+
+### 🏫 High School  
+**Batasan Hills National High School**
+
+### 🏫 Elementary  
+**Melencio M. Castelo**
+
+---
+## 📜 Certificates
+
+<p align="left">
+  🔹 <a href="https://courses.cognitiveclass.ai/certificates/8001a59e50754588991ac55c90c67896" target="_blank"><strong>SQL and Relational Databases 101</strong></a> — IBM (2025) <br>
+  🔹 <a href="https://drive.google.com/file/d/1iJPZ74px87C2ovk5Gn022vpdKNZDXUdE/view?usp=sharing" target="_blank"><strong>Software Dvelopment</strong></a> — DICT (2025) <br>
+  🔹 <a href="https://drive.google.com/file/d/14vGlxwWlz9yVdoS2BhPo1TFm2NJKCtsf/view?usp=sharing" target="_blank"><strong>Computer System Servicing</strong></a> — TESDA (2024) <br>
+ 
+
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
