@@ -13,11 +13,6 @@
 **Melencio M. Castelo**
 
 ---
-
----
-
----
-
 ## 📜 Certificates
 
 <p align="left">
