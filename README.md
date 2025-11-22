@@ -14,13 +14,18 @@
 
 ---
 
-## 📜 Certificates
+---
 
-<p align="left">
-  🔹 <strong>Certificate Title 1</strong> — Issuer (Year) <br>
-  🔹 <strong>Certificate Title 2</strong> — Issuer (Year) <br>
-  🔹 <strong>Certificate Title 3</strong> — Issuer (Year)
-</p>
+<h2 align="left">📜 Certificates</h2>
+
+<ul>
+  <li><strong>Certificate Title 1</strong> — Issuer (Year)</li>
+  <li><strong>Certificate Title 2</strong> — Issuer (Year)</li>
+  <li><strong>Certificate Title 3</strong> — Issuer (Year)</li>
+</ul>
+
+<!-- Add more as needed -->
+
 
 
 
