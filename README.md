@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=6,11,20,29&text=Alexis%20Adrienne%20Gavarra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-I am a motivated CS student passionate about software development, backend systems, databases, and modern web technologies. I continuously explore tools and frameworks to build efficient and user-focused applications.
+I am a motivated CS student from New Era University passionate about software development, backend systems, databases, and modern web technologies. I continuously explore tools and frameworks to build efficient and user-focused applications.
 
 ---
 
