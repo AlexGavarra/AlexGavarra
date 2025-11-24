@@ -64,7 +64,7 @@ I am a motivated CS student from New Era University passionate about software de
 
 ---
 
-## 🍒 Fun Contribution Graph (Pac-Man)
+## Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
