@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=6,11,20,29&text=Alexis%20Adrienne%20Gavarra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-I am a motivated and detail-oriented CS student passionate about software development, backend systems, and modern web technologies. I enjoy building projects that solve real problems and continuously improving my technical skills through hands-on learning.
+I am a motivated IT student passionate about software development, backend systems, databases, and modern web technologies. I continuously explore tools and frameworks to build efficient and user-focused applications.
 
 ---
 
@@ -10,16 +10,16 @@ I am a motivated and detail-oriented CS student passionate about software develo
 
 | Level | Institution |
 |-------|-------------|
-| **College** | *New Era University* |
-| **Senior High School / High School** | *Batasan Hills National High School* |
-| **Elementary** | *Melencio M. Castelo Elementary School* |
+| **College** | New Era University |
+| **High School** | Batasan Hills National High School |
+| **Elementary** | Melencio M. Castelo Elementary School |
 
 ---
 
 ## 🏅 Certifications
 
-- **[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/8001a59e50754588991ac55c90c67896)** — IBM (2025)  
-- **[Software Development](https://drive.google.com/file/d/1iJPZ74px87C2ovk5Gn022vpdKNZDXUdE/view?usp=sharing)** — DICT (2025)  
+- **[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/8001a59e50754588991ac55c90c67896)** — IBM (2025)
+- **[Software Development](https://drive.google.com/file/d/1iJPZ74px87C2ovk5Gn022vpdKNZDXUdE/view?usp=sharing)** — DICT (2025)
 - **[Computer System Servicing NC II](https://drive.google.com/file/d/14vGlxwWlz9yVdoS2BhPo1TFm2NJKCtsf/view?usp=sharing)** — TESDA (2024)
 
 <p align="center">
@@ -30,7 +30,7 @@ I am a motivated and detail-oriented CS student passionate about software develo
 
 ## 🛠️ Technical Skills
 
-### **Languages**
+### **Programming Languages**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
@@ -61,6 +61,16 @@ I am a motivated and detail-oriented CS student passionate about software develo
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexgavarra&theme=react-dark&radius=10" />
 </p>
+
+---
+
+## 🍒 Fun Contribution Graph (Pac-Man)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
