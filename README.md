@@ -10,7 +10,7 @@ I am a motivated CS student from New Era University passionate about software de
 
 | Level | Institution | Course |
 |-------|-------------|
-| **College** | New Era University | Bachelor of Science in Computer Science |
+| **College** | New Era University |
 
 
 ---
