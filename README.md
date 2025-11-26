@@ -7,10 +7,9 @@ I am a motivated CS student from New Era University passionate about software de
 ---
 
 ## 🧑‍🎓 Education
-
-| Level | Institution | Course |
-|-------|-------------|
-| **College** | New Era University |
+| Level     | Institution       | Course                                 | Year            |
+|-----------|--------------------|-----------------------------------------|------------------|
+| **College** | New Era University | Bachelor of Science in Computer Science | 2024 – Present   |
 
 
 ---
