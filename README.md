@@ -8,11 +8,10 @@ I am a motivated CS student from New Era University passionate about software de
 
 ## 🧑‍🎓 Education
 
-| Level | Institution |
+| Level | Institution | Course |
 |-------|-------------|
-| **College** | New Era University |
-| **High School** | Batasan Hills National High School |
-| **Elementary** | Melencio M. Castelo Elementary School |
+| **College** | New Era University | Bachelor of Science in Computer Science |
+
 
 ---
 
