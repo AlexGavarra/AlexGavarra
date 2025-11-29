@@ -16,7 +16,7 @@ I am a motivated CS student from New Era University passionate about software de
 
 ## 🏅 Certifications
 
-- **[Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=59F1E3CDA046719436ED61DABA44B2729C2B735D298AB699B75745203A0C0B47)** — Oracle (2025)
+- **[Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=59F1E3CDA046719436ED61DABA44B2729C2B735D298AB699B75745203A0C0B47)** — Oracle (2025)
 - **[OCI 2025 Foundation Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D025A3B978F9944E81B1A4F54ACA16AA71A21C631B5EAF5962EFF778DB79F41F)** — Oracle (2025)
 - **[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/8001a59e50754588991ac55c90c67896)** — IBM (2025)
 - **[Software Development](https://drive.google.com/file/d/1iJPZ74px87C2ovk5Gn022vpdKNZDXUdE/view?usp=sharing)** — DICT (2025)
