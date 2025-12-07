@@ -1,4 +1,4 @@
-# 👋 Hi Niggers!, I'm **Alexis Adrienne Gavarra**
+# 👋 Hi!, I'm **Alexis Adrienne Gavarra**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=6,11,20,29&text=Alexis%20Adrienne%20Gavarra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
