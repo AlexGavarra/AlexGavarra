@@ -6,7 +6,7 @@ I am a motivated CS student from New Era University passionate about software de
 
 ---
 
-## 🧑‍🎓 Education
+## Education
 | Level     | Institution       | Course                                 | Year            |
 |-----------|--------------------|-----------------------------------------|------------------|
 | **College** | New Era University | Bachelor of Science in Computer Science | 2024 – Present   |
@@ -14,7 +14,7 @@ I am a motivated CS student from New Era University passionate about software de
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
 - **[Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8F624210D3F68628F9E798D041214AA02955D7E27886FD39186B92FC482CA76E)** — Oracle (2025)
 - **[Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=59F1E3CDA046719436ED61DABA44B2729C2B735D298AB699B75745203A0C0B47)** — Oracle (2025)
@@ -29,7 +29,7 @@ I am a motivated CS student from New Era University passionate about software de
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### **Programming Languages**
 <p align="left">
@@ -52,7 +52,7 @@ I am a motivated CS student from New Era University passionate about software de
 
 ---
 
-## 📊 GitHub Overview
+## GitHub Overview
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alexgavarra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -75,7 +75,7 @@ I am a motivated CS student from New Era University passionate about software de
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexis-adrienne-gavarra-a6041239a/">
